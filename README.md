@@ -1,2 +1,2 @@
-# review-practice-r.a-
-Описание
+# review-practice-R.A.
+# Тестовый репозиторий
